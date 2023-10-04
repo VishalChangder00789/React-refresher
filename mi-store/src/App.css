@@ -1,0 +1,8 @@
+/* CSS RESET */
+/* Removes the existing padding and margin from the viewport */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
